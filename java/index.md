@@ -36,32 +36,32 @@ Throws:
 IOException - if an I/O error occurs. In particular, an IOException may be thrown if the output stream has been closed.
 ```
 两个方法执行时都会阻塞（线程理解：[Java线程](https://www.cnblogs.com/GooPolaris/p/8079490.html)），直至字节确实被读入或写出，
-![enter description here](./images/1551855690063.png)
-![完整的流家族](./images/1551855942815.png)
-![Read&Writer](./images/1551856028279.png)
+![enter description here](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400984403.png)
+![完整的流家族](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400984597.png)
+![Read&Writer](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400984605.png)
 
 # **文本输入与输出**
 
 1.可以使用PrintWriter,可以打印字符串和数字
-![Construcors](./images/1551857442210.png)
+![Construcors](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400984254.png)
 2.读入文本输入，Scanner类
-![enter description here](./images/1551857687250.png)
+![enter description here](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400984409.png)
 3.以文本形式存储对象
-![enter description here](./images/1551857839815.png)
+![enter description here](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400984353.png)
 
 # **读写二进制数据**
 
 DataInput/DataOutput接口
-![enter description here](./images/1551858160406.png)
+![enter description here](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400984256.png)
 
 # **随机访问文件**
 
 RandomAccessFile类可以在文件中的任何位置查找或写入数据，磁盘文件都是随机访问的，但是网络套接字的通信的输入输出流却不是。
-![enter description here](./images/1551858860749.png)
+![enter description here](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400984281.png)
 
 # **ZIP文档**
 
-![enter description here](./images/1551859706832.png)
+![enter description here](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400984618.png)
 
 # **对象输入输出流与序列化**
 
@@ -85,7 +85,7 @@ Employee e = (Employee) in.readObject();
 class Employee implements Serializable{...}
 ```
 
-![两个经理共用一个秘书时](./images/1551861227730.png)
+![两个经理共用一个秘书时](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400984353.png)
 
 
 **
@@ -96,7 +96,7 @@ class Employee implements Serializable{...}
 
 **1.path**
 
-![Path常用API](./images/1551863605905.png)
+![Path常用API](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400984591.png)
 
 **2.读写文件**
 
@@ -115,25 +115,25 @@ Files.write(path,lines);
 
 **创建文件和目录**
 
-![enter description here](./images/1551927489121.png)
-![enter description here](./images/1551927559656.png)
+![enter description here](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400984282.png)
+![enter description here](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400984283.png)
 
 **复制、移动和删除文件**
 
-![enter description here](./images/1551927871189.png)
-![enter description here](./images/1551927883983.png)
+![enter description here](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400984439.png)
+![enter description here](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400984562.png)
 
 **获取文件信息**
 
-![enter description here](./images/1551927958027.png)
-![enter description here](./images/1551927973019.png)
+![enter description here](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400984303.png)
+![enter description here](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400984402.png)
 
 
 
 **内存映射文件**
 
 [enter description here](https://www.cnblogs.com/ixenos/p/5863921.html)
-![enter description here](./images/1551932554933.png)
+![enter description here](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400984352.png)
 
 **
 
