@@ -22,11 +22,11 @@ public class LoginController {
 
 2.数据前后端传输
 **后端到前端：**
-![后端](./images/1553673655737.png)
-![前端](./images/1553673730881.png)
+![后端](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400885435.png)
+![前端](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400885441.png)
 **前端到后端：**
 首先表单action标识表单交给谁负责：
-![enter description here](./images/1553673920239.png)
+![enter description here](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400885441.png)
 
 ``` java
 //来到员工添加页面
@@ -101,8 +101,8 @@ public class LoginController {
 
 
 **3.修改**
-![enter description here](./images/TIM截图20190328171629.png)
-![enter description here](./images/1553764732169.png)
+![enter description here](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400885444.png)
+![enter description here](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400885445.png)
 
 ``` java
 //来到修改页面，查出当前员工，在页面回显
@@ -128,5 +128,5 @@ public class LoginController {
 ```
 **4.删除**
 
-![enter description here](./images/1553782482738.png)
-![enter description here](./images/1553782646270.png)
+![enter description here](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400885445.png)
+![enter description here](https://www.github.com/2433574201/2433574201.github.io/raw/master/小书匠/1555400885445.png)
