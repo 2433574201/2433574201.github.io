@@ -11,7 +11,7 @@ grammar_cjkRuby: true
  5. 操作文件
  6. 内存映射文件
  7. 正则表达式
- 
+ https://www.cnblogs.com/ylspace/p/8128112.html
 
 # **一、输入输出流**
 
