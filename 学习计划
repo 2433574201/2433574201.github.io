@@ -1,0 +1,36 @@
+java:
+  java基础
+  java容器
+  javaIO
+  JVM
+  java并发
+  servlet原理
+
+常见设计模式
+
+SpringBoot
+mybatis
+shiro
+druid
+redis
+ElasticSearch
+springMVC
+springcloud
+
+dubbo
+
+docker
+
+计算机网络
+
+数据库原理：
+  事务，事务隔离级别，事务锁
+  数据库连接池
+  索引优化，索引使用的底层算法
+  
+
+计算机操作系统
+
+剑指offer算法题目
+
+linux
