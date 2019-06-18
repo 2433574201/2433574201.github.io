@@ -1,6 +1,25 @@
 java:
   java基础
+  
   java容器
+    collection
+      list
+        ArrayList
+        LinkedList
+        Vector
+      set
+        TreeSet
+        HashSet
+        LinkedHashSet
+      queue
+        LinkedList
+        PriorityQueue
+    map
+      HashMap
+      LinkedHashMap
+      TreeMap
+    迭代器
+    
   javaIO
     字节流
     字符流
@@ -10,11 +29,13 @@ java:
     数据流
     对象流
     NIO
+    
   JVM
     运行时数据区域
     垃圾回收
     内存分配与回收策略
     类加载机制
+    
   java并发
     线程的含义
     线程的状态转换
@@ -28,6 +49,7 @@ java:
     线程池
     CAS算法
     JUC工具
+    
   servlet原理
     servlet生命周期
     请求与转发
