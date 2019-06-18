@@ -52,6 +52,19 @@ java:
     CAS算法
     JUC工具
     线程安全的容器
+      List:
+        CopyOnWriteArrayList
+      Map:
+        ConcurrentHashMap
+        ConcurrentSkipListMap
+      Set:
+        CopyOnWriteArraySet
+        ConcurrentSkipListSet
+      Queue:
+        ArrayBlockingQueue\LinkedBlockingQueue\PriorityQueue
+        ConcurrentLinkedQueue
+        LinkedBlockingDeque
+        ConcurrentLinkedDeque
     
   servlet原理
     servlet生命周期
