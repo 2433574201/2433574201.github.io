@@ -55,7 +55,7 @@ java:
       List:
         CopyOnWriteArrayList(思考：迭代器如何做，保证线程安全？什么是弱一致性迭代器？）
       Map:
-        ConcurrentHashMap
+        ConcurrentHashMap //（https://www.cnblogs.com/huangjuncong/p/9478505.html）
         ConcurrentSkipListMap
       Set:
         CopyOnWriteArraySet
