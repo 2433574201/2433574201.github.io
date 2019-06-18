@@ -46,7 +46,7 @@ java:
     线程通信
     虚假唤醒
     sychonized原理
-    volite关键字
+    volatile关键字
     锁
     线程池
     CAS算法
