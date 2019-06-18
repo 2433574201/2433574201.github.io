@@ -9,8 +9,28 @@ java:
     打印流
     数据流
   JVM
+    运行时数据区域
+    垃圾回收
+    内存分配与回收策略
+    类加载机制
   java并发
+    线程的含义
+    线程的状态转换
+    线程的三种创建方式
+    线程同步
+    线程通信
+    sychonized原理
+    volite关键字
+    锁
+    线程池
+    CAS算法
+    JUC工具
   servlet原理
+    servlet生命周期
+    请求与转发
+    get和post
+    session和cookie
+    
 
 常见设计模式
 
