@@ -53,7 +53,7 @@ java:
     JUC工具
     线程安全的容器
       List:
-        CopyOnWriteArrayList
+        CopyOnWriteArrayList(思考：迭代器如何做，保证线程安全？什么是弱一致性迭代器？）
       Map:
         ConcurrentHashMap
         ConcurrentSkipListMap
