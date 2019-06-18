@@ -22,6 +22,8 @@ dubbo
 docker
 
 计算机网络
+  http与web
+  tcp与udp
 
 数据库原理：
   事务，事务隔离级别，事务锁
@@ -30,6 +32,9 @@ docker
   
 
 计算机操作系统
+  进程管理
+  线程
+  死锁
 
 剑指offer算法题目
 
