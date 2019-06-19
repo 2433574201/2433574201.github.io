@@ -43,7 +43,7 @@ java:
     线程的状态转换
     线程的三种创建方式
     线程同步
-    线程通信
+    线程通信(https://www.cnblogs.com/shijiaqi1066/p/3412346.html)
     虚假唤醒
     sychonized原理
     volatile关键字
