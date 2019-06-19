@@ -1,5 +1,5 @@
 java:
-  java基础
+  java基础  //常见面试问题，待完成
   
   java容器
     collection
@@ -30,13 +30,13 @@ java:
     对象流
     NIO
     
-  java泛型
+  java泛型        //  待完成
     
   JVM
     运行时数据区域
     垃圾回收
     内存分配与回收策略
-    类加载机制
+    类加载机制     //待完成
     
   java并发
     线程的含义
