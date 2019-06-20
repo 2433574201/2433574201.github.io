@@ -91,8 +91,8 @@ java:
 常见设计模式
 
 Spring:
-  Bean(https://baijiahao.baidu.com/s?id=1624321631596698666&wfr=spider&for=pc)
-  AOP
+  Bean    (https://baijiahao.baidu.com/s?id=1624321631596698666&wfr=spider&for=pc)
+  AOP     (https://blog.csdn.net/qq_42709262/article/details/81951402)
   IOC
   DI
 SpringBoot
