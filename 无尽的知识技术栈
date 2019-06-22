@@ -83,7 +83,7 @@ java:
     
   servlet原理
     servlet生命周期
-    请求与转发
+    重定向与转发
     get和post
     session和cookie
     
