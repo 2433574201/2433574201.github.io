@@ -105,11 +105,12 @@ redis
 RabbitMQ
 ElasticSearch
 springMVC
-springcloud
 异步任务
 同步任务
 
-dubbo
+微服务：
+  springcloud
+  dubbo
 
 docker
 
