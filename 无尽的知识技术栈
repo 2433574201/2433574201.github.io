@@ -102,6 +102,7 @@ mybatis
 shiro
 druid
 redis
+RabbitMQ
 ElasticSearch
 springMVC
 springcloud
@@ -111,6 +112,8 @@ dubbo
 docker
 
 分布式
+
+热部署
 
 计算机网络
   http与web
