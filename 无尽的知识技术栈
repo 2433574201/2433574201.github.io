@@ -106,6 +106,8 @@ RabbitMQ
 ElasticSearch
 springMVC
 springcloud
+异步任务
+同步任务
 
 dubbo
 
