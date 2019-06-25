@@ -145,6 +145,11 @@ docker
       商品的波段性的热点高频信息：  内存数据库，如Tair、Redis、Memcache
       商品的交易、价格计算、积分累计：  外部系统，支付宝
     UDSL整合
+    NoSQL四大分类：
+      KV键值对：redis
+      文档型数据库：MongoDB
+      列存储数据库：HBase、分布式文件系统
+      图关系数据库：社交网络Neo4J、InfoGrid
     
   
 数据结构：
