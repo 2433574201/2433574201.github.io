@@ -1,0 +1,6 @@
+@ConfigurationProperties:
+      告诉Springboot将本类中的所有属性和配置文件中相关的配置进行绑定
+      
+不自己写了，发现已经有人整理了
+https://www.cnblogs.com/ldy-blogs/p/8550406.html
+https://mp.weixin.qq.com/s/ZDqDvG5Soy_gucYrvMi6fg
